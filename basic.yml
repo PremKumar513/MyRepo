@@ -1,0 +1,24 @@
+#comment
+
+class:
+  student1:
+    name: "Prem Kumar"
+    id: 29
+    passed: true
+    subjects:
+      -Math
+      -Science
+    marks:
+      Math: 90
+      Science: 86
+    
+  student2:
+    name: "Raju Kumar"
+    id: 45
+    passed: true
+    subjects:
+      -math
+      -Hindi
+    marks:
+      math: 78
+      Hindi: 98
